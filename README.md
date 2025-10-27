@@ -46,7 +46,7 @@ Para este trabajo debemos crear un archivo que imprima en pantalla "Hola mundo, 
 
 
 ```bash
- "Hola mundo, soy Matías.
+ Hola mundo, soy Matías.
 ```
 
 Y el archivo se llamaría: 
