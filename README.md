@@ -122,6 +122,6 @@ Al finalizar la actividad deberías tener:
 
 ## 👨‍🏫 Información docente
 
-**Docente:** Matías N. López  
+**Docente:** Ing. Matías N. López  
 **Materia:** Informática I – UTN FRBA  
 
